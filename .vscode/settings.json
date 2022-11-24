@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\mathi\\Documents\\NetBeansProjects\\Librairies\\AbsoluteLayout-RELEASE122.jar",
+        "c:\\Users\\mathi\\Documents\\NetBeansProjects\\Librairies\\gson-2.8.6.jar"
+    ]
+}
